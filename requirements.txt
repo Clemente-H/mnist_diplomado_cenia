@@ -1,0 +1,23 @@
+PyPDF2
+pdfplumber
+
+# Core ML/DL
+tensorflow>=2.10.0
+numpy>=1.21.0
+
+# Visualización 
+matplotlib>=3.5.0
+
+# Jupyter widgets para interactividad
+ipywidgets>=7.7.0
+seaborn
+scikit-learn
+pydot
+streamlit 
+streamlit-drawable-canvas  
+pillow 
+# Jupyter notebook (si corres local)
+#jupyter>=1.0.0
+
+# Opcional: para mejor rendimiento
+# tensorflow-gpu>=2.10.0  # Solo si tienes GPU CUDA
